@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.6134a3c1.css",
+    "main.js": "/memory-game/static/js/main.77428c3f.js",
+    "static/media/Melon.jpg": "/memory-game/static/media/Melon.d40bacfa1f9b010df88c.jpg",
+    "static/media/Lime.jpg": "/memory-game/static/media/Lime.350cb288c2fe8e8784b6.jpg",
+    "static/media/Plum.jpg": "/memory-game/static/media/Plum.afb7723e9ea535463cb9.jpg",
+    "static/media/Orange.jpg": "/memory-game/static/media/Orange.66468e0e2f9a195e256e.jpg",
+    "static/media/Fig.jpg": "/memory-game/static/media/Fig.ec01914623218be095a7.jpg",
+    "static/media/Pomegranate.jpg": "/memory-game/static/media/Pomegranate.70bec08403253b69af87.jpg",
+    "static/media/Pineapple.jpg": "/memory-game/static/media/Pineapple.ec50b693395f7a13aa60.jpg",
+    "static/media/Peach.jpg": "/memory-game/static/media/Peach.c9309eafddf2aeb0aa16.jpg",
+    "static/media/Grape.jpg": "/memory-game/static/media/Grape.be622b0ede5257dbae09.jpg",
+    "static/media/Blueberry.jpg": "/memory-game/static/media/Blueberry.aba59dfcb31b2baf2f63.jpg",
+    "static/media/Avocado.jpg": "/memory-game/static/media/Avocado.9372507fbec15737d80d.jpg",
+    "static/media/Dragonfruit.jpg": "/memory-game/static/media/Dragonfruit.6ad39f494755531cd418.jpg",
+    "static/media/Watermelon.jpg": "/memory-game/static/media/Watermelon.88069d56c3e6ab5c445d.jpg",
+    "static/media/Strawberry.jpg": "/memory-game/static/media/Strawberry.a8172ff678ed39caa1e6.jpg",
+    "static/media/Cherry.jpg": "/memory-game/static/media/Cherry.5ee5b07c81172215729c.jpg",
+    "static/media/Banana.jpg": "/memory-game/static/media/Banana.9e2ef5fe17e1939e0325.jpg",
+    "index.html": "/memory-game/index.html",
+    "main.6134a3c1.css.map": "/memory-game/static/css/main.6134a3c1.css.map",
+    "main.77428c3f.js.map": "/memory-game/static/js/main.77428c3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6134a3c1.css",
+    "static/js/main.77428c3f.js"
+  ]
+}
